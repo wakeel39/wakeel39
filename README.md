@@ -1,4 +1,6 @@
 # 💫 About Me:
+🚀 Full-Stack | 🧠 AI | 🏗 Architecture | ⚙️ DevOps
+
  **I’m currently working on**<br>Building scalable web and mobile applications using **Laravel, Node.js, ReactJS, Flutter**, and **PostgreSQL/MSSQL**, including task management systems, POS solutions, and CI/CD pipelines.<br><br>👯 **I’m looking to collaborate on**<br>Open-source or startup projects related to **SaaS platforms, productivity tools, POS systems, mobile apps**, and **API-driven architectures**.<br><br>🤝 **I’m looking for help with**<br>Improving **system architecture**, **cloud deployment (Docker, Kubernetes)**, performance optimization, and advanced **DevOps/CI-CD workflows**.<br><br>🌱 **I’m currently learning**<br>**Blockchain (Ethereum)**, advanced **DevOps practices**, **microservices architecture**, and **secure, scalable backend systems**.<br><br>💬 **Ask me about**<br>Laravel, Node.js, MSSQL & PostgreSQL, REST APIs, queues (Redis), CI/CD, Flutter apps, and turning business ideas into working software.<br><br>⚡ **Fun fact**<br>I enjoy solving real-world business problems with code and can work across **multiple databases and platforms** without breaking a sweat 😄<br><br><br>
 
 
